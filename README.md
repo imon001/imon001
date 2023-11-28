@@ -1,5 +1,4 @@
 ### Hi there 👋
-file:///home/im0n/Downloads/flutter-use-cases-mobile-app-development-1.jpeg
 
 
 <!--
