@@ -4,7 +4,7 @@
 
 <!--![imon001](https://raw.githubusercontent.com/imon001/images/main/flutter2.jpeg)-->
 
-I'm a self-taught  Flutter developer from Bangladesh 🇧🇩.
+I'm a  Flutter developer from Bangladesh 🇧🇩.
 - 📫 contact  me **Bishojitdasemon01@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
