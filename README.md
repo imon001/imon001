@@ -13,5 +13,8 @@ I'm a  Flutter developer from Bangladesh 🇧🇩.
 <!--<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/imon001/images/main/download%20(2).png" alt="VScode" width="40" height="40"/> </a>-->
 </p>
 
-|<img src="https://github-readme-streak-stats.herokuapp.com/?user=imon001&show_icons=true&theme=dracula" alt="imon001" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imon001&layout=compact&hide_progress=false" alt="imon001"/>|
-| ------------- | ------------- |
+
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=imon001&show_icons=true&theme=dracula" alt="imon001" />
+
+<!--|<img src="https://github-readme-streak-stats.herokuapp.com/?user=imon001&show_icons=true&theme=dracula" alt="imon001" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imon001&layout=compact&hide_progress=false" alt="imon001"/>|
+| ------------- | ------------- |-->
